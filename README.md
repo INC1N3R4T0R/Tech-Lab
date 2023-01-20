@@ -5,3 +5,15 @@
 <h3 style="color:#624F82">Introduction</h3>
 
 <span style="color:#9F73AB">This lab is a guide towards simulating a corporate network on a smaller scale with primary focus over the responsibilities of an IT support professional.</span>
+
+<style>
+H1{color:Blue !important;}
+H2{color:DarkOrange !important;}
+p{color:Black !important;}
+</style>
+
+# Color Test Document
+
+## Second Heading
+
+This is a test to see how the colors work.
