@@ -1,7 +1,18 @@
-//#3F3B6C, #624F82, #9F73AB, #A3C7D6
+#	💻 IT Support Lab 💻
 
-<h1 style="color:#3F3B6C">IT Support Lab</h1>
+###🖥 Introduction 
 
-<h3 style="color:#624F82">Introduction</h3>
+This lab is a guide towards simulating a corporate network on a smaller scale with primary focus over the responsibilities of an IT support professional.
 
-<span style="color:#9F73AB">This lab is a guide towards simulating a corporate network on a smaller scale with primary focus over the responsibilities of an IT support professional.</span>
+###🖥 Prerequisites
+
+- Windows 2016 or 2019 Server ISO Image
+- Windows 2010 Pro / Enterprise ISO Image
+- Hypervisor [Type 2 - https://www.virtualbox.org/wiki/Downloads]
+
+
+###🖥 Installation and Configuration
+
+- Install VirtualBox
+- Install these nuts
+
