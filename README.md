@@ -35,6 +35,7 @@ IT support
     
     ![alt text](./Network%20drives/1.png)
 <br>
+
 2. Click on `Shares`, Right click in the area showing existing shared drives and select `New Share`.
 
     ![alt text](./Network%20drives/2.png)
@@ -62,7 +63,6 @@ IT support
 6. Go to the path **C:\Shares** to confirm the drive creation. Right-click on the folder created, click on `Properties` and select `Security`. This will show the current (and default) permissions allocated to our shared drive. 
 
     ![alt text](./Network%20drives/5.png)
-
 <br>
 
 7. Click on `Advanced` > `Disable Inheritance` and select the first option. This option will basically allow default, existing permissions to be edited.
@@ -91,7 +91,6 @@ IT support
 1. Login to a Domain Admin account and go to Active Directory Users and Computers. Right-click on the target user, select `Properties` and click on `Profile`. In the ==Home Folder== Option, select `Connect`. Now select any volume name and add the **network path** of the shared drive in the address. Click 'Apply' and 'OK'. Ignore the warning if received.
 
     ![alt text](./Network%20drives/11.png)
-
 <br>
 
 2. Login to the target user's account and go to 'This PC'.
