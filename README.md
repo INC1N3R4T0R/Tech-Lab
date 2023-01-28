@@ -86,7 +86,7 @@ IT support
 
 <br>
 
-<h3>> **Scenario #2** -  You have successfully created the shared drive for a particular group. You have been asked to make the drive easily accessible for users with less IT knowledge or simply to reduce the steps required to access the drive.</h3>
+><h3> **Scenario #2** -  You have successfully created the shared drive for a particular group. You have been asked to make the drive easily accessible for users with less IT knowledge or simply to reduce the steps required to access the drive.</h3>
 
 1. Login to a Domain Admin account and go to Active Directory Users and Computers. Right-click on the target user, select `Properties` and click on `Profile`. In the ==Home Folder== Option, select `Connect`. Now select any volume name and add the **network path** of the shared drive in the address. Click 'Apply' and 'OK'. Ignore the warning if received.
 
