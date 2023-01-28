@@ -35,8 +35,8 @@ IT support
     
     ![alt text](./Network%20drives/1.png)
 <br>
-
 2. Click on `Shares`, Right click in the area showing existing shared drives and select `New Share`.
+
     ![alt text](./Network%20drives/2.png)
 <br>
 
