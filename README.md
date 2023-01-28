@@ -26,7 +26,7 @@ IT support
 
 The lab is divided into several sections, where each section will essentially explain a GUI method and a powershell method.
 
-- Share Drives
+- [Share Drives](./SMB%20main.md)
 
 ---
 

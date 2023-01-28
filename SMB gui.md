@@ -20,11 +20,9 @@
     ![alt text](./Network%20drives/3.png)
 
     **Local path to share**
-    
     : The tool uses the local file system to store files and folders downloaded from the Design Time Repository (DTR) server. The path where a file or folder from the server is stored in the local file system, is the local path
 
     **Remote path to share**
-    
     : Each file and folder on the server is exposed through a HTTP URL. The part of the URL after the host name, and possibly the port number, is called the remote path.
 
 5. Keep clicking next (Yes, even on permissions as they will be done later) until you reach *Confirmation*. Click `Create`.
