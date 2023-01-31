@@ -12,4 +12,10 @@ Share drives are basically folders that exist on the Domain Controller and are s
 
 <br>
 
-- **Network Drive**
+- **NFS (Network File Storage) Network Drive**
+    : Similar to an SMB Share in terms of functionality but with minor performance, compatibility and security differences. [Read more](https://cloudinfrastructureservices.co.uk/nfs-vs-smb/
+
+    - Network Drive with [GUI](./Netdrive%20gui.md)
+
+<br>
+<br>

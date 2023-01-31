@@ -6,8 +6,7 @@
 
 This lab is a guide towards simulating a corporate network on a smaller scale with primary focus over the responsibilities of an IT support professional.
 
-IT support
-: IT support is about offering assistance to employees and the wider organization for technology-related issues. Its purpose is to provide users with answers to problems they may be experiencing. In a business environment, IT support can also encompass the setup, installation, and configuration of equipment, plus much more.
+IT support is about offering assistance to employees and the wider organization for technology-related issues. Its purpose is to provide users with answers to problems they may be experiencing. In a business environment, IT support can also encompass the setup, installation, and configuration of equipment, plus much more.
 
 <h3>+ Prerequisites</h3>
 
@@ -26,7 +25,7 @@ IT support
 
 The lab is divided into several sections, where each section will essentially explain a GUI method and a powershell method.
 
-- [Share Drives](./SMB%20main.md)
+- [Share Drives](./Share%20Drives/Share%20drive%20main.md)
 
 ---
 
